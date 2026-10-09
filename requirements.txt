@@ -1,0 +1,17 @@
+torch
+transformers>=4.40
+sentencepiece
+accelerate
+datasets
+diffusers
+gradio
+pillow
+matplotlib
+requests
+beautifulsoup4
+google-generativeai
+google-genai>=1.0
+# Ex 3 (YOLOv5 via torch.hub) also needs:
+pandas
+seaborn
+opencv-python
